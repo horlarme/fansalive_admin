@@ -1,4 +1,4 @@
-/* 
+/*
 
 */
 html {
@@ -2930,13 +2930,13 @@ div.input-group > .select2-container > .selection {
 
 .primary {
   color: rgba(255, 255, 255, 0.87);
-  background-color: #0cc2aa; }
+  background-color: #790350; }
   .primary .lt {
-    background-color: #0dceb5; }
+    background-color: #800856; }
   .primary .dk {
-    background-color: #0bb69f; }
+    background-color: #510236; }
   .primary .bg {
-    background-color: #0cc2aa; }
+    background-color: #790350; }
 
 .accent {
   color: rgba(255, 255, 255, 0.87);
@@ -3838,7 +3838,7 @@ a.text-primary:hover {
 
 .text-primary,
 .text-primary-hover a:hover {
-  color: #0cc2aa !important; }
+  color: #790350 !important; }
 
 a.warn:hover {
   background-color: #efb700; }
